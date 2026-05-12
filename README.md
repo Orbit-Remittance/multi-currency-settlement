@@ -1,2 +1,3 @@
 # multi-currency-settlement
 A settlement engine that batches and nets multi-currency remittance flows to reduce on-chain transaction costs and liquidity fragmentation.
+A settlement engine that reduces payment overhead by netting opposing transfers and batching multi-currency transactions before on-chain execution. The system calculates optimal settlement paths, minimizes liquidity fragmentation, and lowers transaction costs for remittance providers and payment platforms. It supports stablecoins, fiat-backed assets, and cross-border corridors, while generating audit trails and reconciliation reports for operators. The engine is designed for high-volume financial infrastructure and focuses on efficiency, determinism, and operational transparency.
